@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="628568e1-961f-414e-b94c-bccd342bf13c" name="Default Changelist" comment="2024.6.6——第一次提交（无xxl-job）">
+      <change beforePath="$PROJECT_DIR$/../easypan-front/minipan-front" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/easypan.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/easypan.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "haipeng-lin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/haipeng-lin/easypan-java.git",
+    "accountId": "08bfea32-3f83-4e6e-8cac-582f8836828c"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../Repository/01_Maven_Repository/org/springframework/spring-tx/5.3.13/spring-tx-5.3.13.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.6.1-bin" />
+        <option name="localRepository" value="D:\peng\code\Repository\01_Maven_Repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\peng\code\Maven\apache-maven-3.6.1-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eJnHF7PD7j1nUp2r8nBKxM7X8m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "Spring Boot.EasyPanApplication.executor": "Run",
+    "Spring Boot.XxlJobAdminApplication.executor": "Run",
+    "Spring Boot.XxlJobExecutorApplication.executor": "Run",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/peng/code/Project/easyspan/easypan-java/easypan-modules/xxl-job",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.37241378",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\peng\code\Project\easyspan\easypan-java\easypan-modules\xxl-job" />
+      <recent name="D:\peng\code\Project\easyspan\easypan-java\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EasyPanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="easypan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easypan.EasyPanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="628568e1-961f-414e-b94c-bccd342bf13c" name="Default Changelist" comment="" />
+      <created>1711631458536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711631458536</updated>
+      <workItem from="1711631462588" duration="1714000" />
+      <workItem from="1711669750520" duration="14000" />
+      <workItem from="1711672365514" duration="4219000" />
+      <workItem from="1711695920284" duration="6983000" />
+      <workItem from="1711960451120" duration="8496000" />
+      <workItem from="1712016665614" duration="10784000" />
+      <workItem from="1712103329946" duration="2009000" />
+      <workItem from="1712138082950" duration="827000" />
+      <workItem from="1712209625586" duration="11901000" />
+      <workItem from="1712278247669" duration="5232000" />
+      <workItem from="1712302799610" duration="5534000" />
+      <workItem from="1712361405465" duration="720000" />
+      <workItem from="1712379665487" duration="1189000" />
+      <workItem from="1712448029351" duration="4533000" />
+      <workItem from="1712478413345" duration="762000" />
+      <workItem from="1712906737237" duration="682000" />
+      <workItem from="1712926374647" duration="4774000" />
+      <workItem from="1712967643884" duration="4843000" />
+      <workItem from="1712976732641" duration="27000" />
+      <workItem from="1712976773721" duration="1070000" />
+      <workItem from="1712995148424" duration="2743000" />
+      <workItem from="1713316119105" duration="1975000" />
+      <workItem from="1713429756053" duration="27000" />
+      <workItem from="1714813168908" duration="3385000" />
+      <workItem from="1714819261375" duration="1395000" />
+      <workItem from="1714823011874" duration="1039000" />
+      <workItem from="1714880818490" duration="10000" />
+      <workItem from="1715047855126" duration="2909000" />
+      <workItem from="1715065939264" duration="5630000" />
+      <workItem from="1715073091966" duration="767000" />
+      <workItem from="1715078513588" duration="114000" />
+      <workItem from="1715078640839" duration="292000" />
+      <workItem from="1715952631355" duration="4193000" />
+      <workItem from="1716004153340" duration="20000" />
+      <workItem from="1716105512670" duration="1376000" />
+      <workItem from="1716206960257" duration="102000" />
+      <workItem from="1717633910589" duration="6880000" />
+    </task>
+    <task id="LOCAL-00001" summary="2024.6.6——第一次提交（无xxl-job）">
+      <option name="closed" value="true" />
+      <created>1717638971078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717638971079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024.6.6——第一次提交（无xxl-job）">
+      <option name="closed" value="true" />
+      <created>1717639004855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717639004855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.6.6——第一次提交（无xxl-job）" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.6.6——第一次提交（无xxl-job）" />
+  </component>
+</project>
